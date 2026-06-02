@@ -1,0 +1,9 @@
+AppData/
+.vscode/
+node_modules/
+.DS_Store
+Thumbs.db
+*.dll
+*.blb
+*.parc
+*.log
